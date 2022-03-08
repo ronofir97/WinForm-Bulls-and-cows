@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\bin\Debug\WinFormGameUi.exe
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\bin\Debug\WinFormGameUi.pdb
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.csprojAssemblyReference.cache
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.ColorSelection.resources
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.GameForm.resources
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.Properties.Resources.resources
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.RowItemForGame.resources
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.csproj.GenerateResource.cache
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.exe
+C:\Users\user\Downloads\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\A22 Ex05 RonOfir 315995738 AlmogShmul 203426895\WinFormGameUi\obj\Debug\WinFormGameUi.pdb
